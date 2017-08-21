@@ -1,3 +1,4 @@
 # hello-world
 Obligatory explanation
-Write a bit about yourself.
+
+What in the fuck is going on here?
